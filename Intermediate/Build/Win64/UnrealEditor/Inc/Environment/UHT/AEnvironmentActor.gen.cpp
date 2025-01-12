@@ -34,7 +34,7 @@ struct Z_Construct_UClass_AEnvironmentActor_Statics
 		{ "ModuleRelativePath", "AEnvironmentActor.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MeshComponent_MetaData[] = {
-		{ "Category", "EnvironmentActor" },
+		{ "Category", "Mesh" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "AEnvironmentActor.h" },
 	};
@@ -92,10 +92,10 @@ AEnvironmentActor::~AEnvironmentActor() {}
 struct Z_CompiledInDeferFile_FID_TestProject_Source_Environment_AEnvironmentActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AEnvironmentActor, AEnvironmentActor::StaticClass, TEXT("AEnvironmentActor"), &Z_Registration_Info_UClass_AEnvironmentActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnvironmentActor), 1592020137U) },
+		{ Z_Construct_UClass_AEnvironmentActor, AEnvironmentActor::StaticClass, TEXT("AEnvironmentActor"), &Z_Registration_Info_UClass_AEnvironmentActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnvironmentActor), 1485409407U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TestProject_Source_Environment_AEnvironmentActor_h_3853203478(TEXT("/Script/Environment"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TestProject_Source_Environment_AEnvironmentActor_h_3961887211(TEXT("/Script/Environment"),
 	Z_CompiledInDeferFile_FID_TestProject_Source_Environment_AEnvironmentActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_TestProject_Source_Environment_AEnvironmentActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

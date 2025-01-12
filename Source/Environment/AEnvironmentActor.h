@@ -11,9 +11,8 @@ class AEnvironmentActor : public AAEnvActor
 
 public:
 	AEnvironmentActor();
-	void SetMesh(UStaticMesh* NewMesh);
 
 protected:
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, Category = "Mesh")
 	UStaticMeshComponent* MeshComponent;
 };
