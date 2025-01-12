@@ -11,4 +11,8 @@ class AEnvironmentActor : public AActor
 public:
 	AEnvironmentActor();
 	void SetMesh(UStaticMesh* NewMesh);
+
+protected:
+	UPROPERTY(VisibleAnywhere)
+	UStaticMeshComponent* MeshComponent;
 };
