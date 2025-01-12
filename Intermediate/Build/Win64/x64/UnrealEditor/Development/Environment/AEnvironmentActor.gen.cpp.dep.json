@@ -7,6 +7,8 @@
         "Includes": [
             "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\environment\\definitions.environment.h",
             "d:\\ueprojects\\testproject\\source\\environment\\aenvironmentactor.h",
+            "d:\\ueprojects\\testproject\\source\\environment\\aenvactor.h",
+            "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\environment\\uht\\aenvactor.generated.h",
             "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\environment\\uht\\aenvironmentactor.generated.h"
         ],
         "ImportedModules": [],

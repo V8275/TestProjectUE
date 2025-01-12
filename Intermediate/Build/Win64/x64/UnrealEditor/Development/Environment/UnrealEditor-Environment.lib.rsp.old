@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Environment.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\TestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\AEnvActor.gen.cpp.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\AEnvironmentActor.gen.cpp.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\Environment.init.gen.cpp.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\AEnvironmentActor.cpp.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\Environment.cpp.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\AEnvActor.cpp.obj"
+"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\Default.rc2.res"
+/OUT:"D:\UEProjects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Environment\UnrealEditor-Environment.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ueprojects\\testproject\\source\\environment\\aenvactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\environment\\definitions.environment.h",
+            "d:\\ueprojects\\testproject\\source\\environment\\aenvactor.h",
+            "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\environment\\uht\\aenvactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
