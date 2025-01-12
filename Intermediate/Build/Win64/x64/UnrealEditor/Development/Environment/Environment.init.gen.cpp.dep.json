@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\environment\\uht\\environment.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ueprojects\\testproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\environment\\definitions.environment.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
